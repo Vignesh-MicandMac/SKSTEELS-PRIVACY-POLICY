@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - SK Super TMT</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #2d3748;
+            background-color: #f7fafc;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 16px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+            border: 1px solid #e2e8f0;
+            overflow: hidden;
+        }
+
+        .header {
+            background: #1a202c;
+            color: white;
+            padding: 50px 40px;
+            text-align: center;
+            border-bottom: 5px solid #facc15;
+            /* Yellow brand accent */
+        }
+
+        .header h1 {
+            font-size: 2.2rem;
+            font-weight: 800;
+            margin-bottom: 12px;
+            letter-spacing: -0.5px;
+        }
+
+        .header p {
+            font-size: 1.05rem;
+            color: #a0aec0;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .content {
+            padding: 50px 50px;
+        }
+
+        .section {
+            margin-bottom: 35px;
+            padding-bottom: 25px;
+            border-bottom: 1px solid #edf2f7;
+        }
+
+        .section:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        .section-title-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 16px;
+        }
+
+        .number-badge {
+            background: #facc15;
+            color: #1a202c;
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.9rem;
+            flex-shrink: 0;
+        }
+
+        .section h2 {
+            color: #1a202c;
+            font-size: 1.35rem;
+            font-weight: 700;
+            letter-spacing: -0.3px;
+        }
+
+        .section p,
+        .section li {
+            font-size: 0.975rem;
+            color: #4a5568;
+            margin-bottom: 12px;
+        }
+
+        .highlight-box {
+            background-color: #fef9c3;
+            border-left: 4px solid #ca8a04;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .highlight-box h3 {
+            color: #713f12;
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .highlight-box p {
+            color: #713f12;
+            margin-bottom: 0;
+        }
+
+        ul {
+            padding-left: 20px;
+            margin-bottom: 12px;
+        }
+
+        li {
+            margin-bottom: 6px;
+        }
+
+        .contact-card {
+            background: #1a202c;
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-top: 25px;
+            border-left: 4px solid #facc15;
+        }
+
+        .contact-card h3 {
+            font-size: 1.15rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: #facc15;
+        }
+
+        .address {
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #e2e8f0;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 15px 10px;
+            }
+
+            .header {
+                padding: 35px 20px;
+            }
+
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .content {
+                padding: 30px 20px;
+            }
+
+            .section h2 {
+                font-size: 1.2rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Privacy Policy</h1>
+            <p>SK Super TMT respects your privacy and is committed to protecting your personal information.</p>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">1</span>
+                    <h2>USER CONSENTS</h2>
+                </div>
+                <p><strong>Consent for collection of information:</strong> By using the SK Super TMT app, you consent to the collection and use of the information you disclose on the app in accordance with this Privacy Policy.</p>
+                <p><strong>Withdrawal:</strong> Users are entitled to withdraw consent for use of their Personal Data by emailing a specific request to us. Withdrawal may result in immediate termination of the right to avail services.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">2</span>
+                    <h2>LOCATION DATA POLICY</h2>
+                </div>
+
+                <p>SK Super TMT collects precise location parameters exclusively to facilitate necessary app functions for field force automation and business management.</p>
+
+                <div class="highlight-box">
+                    <h3>Strict Data Scope: Latitude & Longitude Only</h3>
+                    <p>Our application exclusively requests and collects the geographic coordinates (<strong>latitude and longitude</strong>) of your device. We do not retrieve, access, or store any other personal, device, or ambient environmental data from your location configuration.</p>
+                </div>
+
+                <p><strong>Purpose of Collection:</strong> This latitude and longitude data is used solely to verify employee attendance logs, check-ins, and site visit confirmations at specified business destinations.</p>
+
+                <p><strong>Type of Location Access:</strong></p>
+                <ul>
+                    <li><strong>Foreground Location:</strong> Captured when you actively open and use the application to log an action, mark attendance, or update a business visit status.</li>
+                    <li><strong>Background Location:</strong> Accessed only within designated operational hours to confirm validation points when the device is locked or minimized during a live assignment.</li>
+                </ul>
+
+                <p><strong>User Control & Autonomy:</strong> Employees retain full structural control over tracking permissions. Tracking functions are triggered manually when starting or ending duty inside the application interface. You can withdraw or restrict location permissions at any stage via your device operating settings; however, doing so will degrade features tied to location verification and attendance logs.</p>
+
+                <p><strong>Storage & Access Safety:</strong> All geographic datasets are safely routed through encrypted network pathways (HTTPS) and retained on our private web environments. Access rules are rigid, restricted strictly to authorized operational managers, and under no condition is this information shared or sold to outside promotional companies.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">3</span>
+                    <h2>CAMERA &amp; MEDIA ACCESS POLICY</h2>
+                </div>
+                <p>SK Super TMT requires access to your device’s camera hardware to support verification workflows within the mobile application environment.</p>
+
+                <div class="highlight-box">
+                    <h3>Strict Camera Scope: Site Creation Only</h3>
+                    <p>The app requests camera permissions exclusively to capture real-time validation images during **new site creation or site reporting activities**. We do not look into, index, or extract images from your device's background personal photo gallery or media storage.</p>
+                </div>
+
+                <p><strong>Usage & Verification:</strong> Photos captured via the application camera feature are mapped directly onto the respective site profile to verify construction metrics, record physical context, and ensure transparency in remote site provisioning.</p>
+                <p><strong>User Discretion:</strong> Access to the camera is only prompted when you tap the photo verification trigger during site creation. You may block or revoke camera access inside your system privacy manager anytime, which will only disable image attachment workflows during site setups.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">4</span>
+                    <h2>CONSENT TO USE OF COOKIES</h2>
+                </div>
+                <p>A cookie is a small text file that uniquely identifies your browser. Cookies may be used to personalize your experience, for authentication, data analysis, and security purposes. You are free to decline cookies if your browser permits, though it may limit certain features.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">5</span>
+                    <h2>CONSENT TO EMAIL COMMUNICATION</h2>
+                </div>
+                <p>When you register your email address, you agree to receive email communication from SK Super TMT and other authorized entities for updates and promotions.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">6</span>
+                    <h2>ELIGIBILITY TO USE THE SITE</h2>
+                </div>
+                <p>This App is available only to Users who can form legally binding contracts. By using this App, you represent that you are at least eighteen (18) years of age. Persons under 18 must seek parent/guardian consent.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">7</span>
+                    <h2>DISCLOSURE OF INFORMATION</h2>
+                </div>
+                <p>Information collected is not revealed to third parties except as compelled by law. Financial information (credit/debit cards) is not disclosed to payment recipients without prior consent, except as required to complete transactions or fraud investigations.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">8</span>
+                    <h2>DATA SECURITY</h2>
+                </div>
+                <p>We take appropriate security measures to protect against unauthorized access or destruction of data. This includes encryption and physical security measures. We restrict access to personal information to employees who strictly need to know that information to provide services.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">9</span>
+                    <h2>LIMITATION OF LIABILITY</h2>
+                </div>
+                <p>The liability of SK Super TMT shall be limited to the removal of Sensitive Personal Data from the system and removal of personally identifiable elements.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">10</span>
+                    <h2>GENERAL RULES OF CONDUCT</h2>
+                </div>
+                <p>You agree not to collect personally identifiable information about another User without express consent. You will not use the App for illegal activities, spam, or infringing on intellectual property rights.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">11</span>
+                    <h2>ADDITIONAL RESERVATION OF RIGHTS</h2>
+                </div>
+                <p>We reserve the right to deny, cancel, or terminate access to any Account for reasons including fraud detection, court orders, or harassment of employees.</p>
+            </div>
+
+            <div class="section">
+                <div class="section-title-wrapper">
+                    <span class="number-badge">12</span>
+                    <h2>CONTACT US</h2>
+                </div>
+                <div class="contact-card">
+                    <h3>Any questions or clarifications</h3>
+                    <div class="address">
+                        Mic & Mac Solutions Private Limited.,<br>
+                        100 Feet Road, 55, 2nd Floor, Kadarkarai Thangam Complex, Kamala Nehru Nagar 2nd St,<br>
+                        Choolaimedu, Chennai,<br>
+                        TamilNadu - 600094, India.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
